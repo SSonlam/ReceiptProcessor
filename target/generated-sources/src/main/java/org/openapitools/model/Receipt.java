@@ -23,7 +23,7 @@ import jakarta.annotation.Generated;
  * Receipt
  */
 
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2025-02-19T14:10:27.920136800-08:00[America/Los_Angeles]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2025-02-19T22:09:32.904762600-08:00[America/Los_Angeles]")
 public class Receipt {
 
   private String retailer;

@@ -1,13 +1,16 @@
 org\openapitools\api\ReceiptsApi.class
+org\example\MainApplication.class
 org\openapitools\model\ProcessReceipts200Response.class
 org\openapitools\OpenApiGeneratorApplication.class
 org\openapitools\RFC3339DateFormat.class
+org\example\services\ReceiptsService.class
 org\openapitools\model\Receipt.class
 org\example\controllers\ReceiptsApiController.class
 org\openapitools\api\ReceiptsApiController.class
 org\openapitools\model\Item.class
+org\example\utils\MoneyProcessingUtil.class
 org\openapitools\api\ApiUtil.class
 org\openapitools\configuration\SpringDocConfiguration.class
 org\openapitools\model\GetPoints200Response.class
 org\openapitools\configuration\HomeController.class
-org\example\ReceiptProcessor.class
+org\example\utils\DateTimeUtil.class
