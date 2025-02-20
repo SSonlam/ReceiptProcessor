@@ -27,7 +27,7 @@ Our project makes some assumptions, some may be right and some may be wrong but 
    ```sh
    cd /path/to/project
    ```
-3. Build the Docker Image:
+3. Build the Docker Image: **(Please ensure that Docker is running on your machine!)**
    ```sh
    docker build -t app .
    ```
