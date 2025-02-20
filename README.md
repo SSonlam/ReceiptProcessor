@@ -1,7 +1,9 @@
 # Receipt Processor
 
 ## Description
-This project aims to take in JSON receipts and adds points to them based on some rules. We can make POST calls to store them into our program's memory. Then we can make GET calls on the ID returned to us if we wish to know how many points the receipt received. This project was developed in Java 17, Springboot 3, and Maven 3. I used Openapi's Maven plugin to generate a lot of the boilerplate code (Objects, Controllers, Etc) based on the api.yaml given https://github.com/fetch-rewards/receipt-processor-challenge/blob/main/api.yml. All of the generated code is included in the repo, along with the .JAR file and Dockerfile. The repo is made so that you should be able to pull the repo, generate the Docker image and be able to run the container.
+This project aims to take in JSON receipts and adds points to them based on some rules. We can make POST calls to store them into our program's memory. Then we can make GET calls on the ID returned to us if we wish to know how many points the receipt received. This project was developed in **Java 17, Springboot 3, and Maven 3**. I used Openapi's Maven plugin to generate a lot of the boilerplate code (Objects, Controllers, Etc) based on the api.yaml given https://github.com/fetch-rewards/receipt-processor-challenge/blob/main/api.yml. All of the generated code is included in the repo, along with the .JAR file and Dockerfile. The repo is made so that you should be able to pull the repo, generate the Docker image and be able to run the container.
+
+**The container will be running in port 8080**
 
 ## Assumptions
 Our project makes some assumptions, some may be right and some may be wrong but the list is as follows:
