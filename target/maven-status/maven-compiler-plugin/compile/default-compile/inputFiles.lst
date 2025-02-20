@@ -1,13 +1,16 @@
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\configuration\HomeController.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\model\Receipt.java
+C:\Users\Sonlam\Desktop\ReceiptProcessor\src\main\java\org\example\services\ReceiptsService.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\model\Item.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\model\GetPoints200Response.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\RFC3339DateFormat.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\model\ProcessReceipts200Response.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\src\main\java\org\example\controllers\ReceiptsApiController.java
+C:\Users\Sonlam\Desktop\ReceiptProcessor\src\main\java\org\example\utils\MoneyProcessingUtil.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\api\ApiUtil.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\api\ReceiptsApi.java
+C:\Users\Sonlam\Desktop\ReceiptProcessor\src\main\java\org\example\MainApplication.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\configuration\SpringDocConfiguration.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\OpenApiGeneratorApplication.java
 C:\Users\Sonlam\Desktop\ReceiptProcessor\target\generated-sources\src\main\java\org\openapitools\api\ReceiptsApiController.java
-C:\Users\Sonlam\Desktop\ReceiptProcessor\src\main\java\org\example\ReceiptProcessor.java
+C:\Users\Sonlam\Desktop\ReceiptProcessor\src\main\java\org\example\utils\DateTimeUtil.java
